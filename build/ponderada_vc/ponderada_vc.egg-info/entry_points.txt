@@ -1,0 +1,2 @@
+[console_scripts]
+turtle_controller = projeto.turtle_controller:main

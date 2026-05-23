@@ -1,0 +1,11 @@
+[0.501s] Invoking command in '/home/cauex/workspace_visao_comp/src/ponderada_vc': PYTHONPATH=/home/cauex/workspace_visao_comp/src/ponderada_vc/build/ponderada_vc/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/cauex/workspace_visao_comp/src/ponderada_vc/install/ponderada_vc/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base build/ponderada_vc build --build-base /home/cauex/workspace_visao_comp/src/ponderada_vc/build/ponderada_vc/build install --record /home/cauex/workspace_visao_comp/src/ponderada_vc/build/ponderada_vc/install.log --single-version-externally-managed
+[0.650s] running egg_info
+[0.650s] creating build/ponderada_vc/ponderada_vc.egg-info
+[0.661s] writing build/ponderada_vc/ponderada_vc.egg-info/PKG-INFO
+[0.661s] writing dependency_links to build/ponderada_vc/ponderada_vc.egg-info/dependency_links.txt
+[0.661s] writing entry points to build/ponderada_vc/ponderada_vc.egg-info/entry_points.txt
+[0.661s] writing requirements to build/ponderada_vc/ponderada_vc.egg-info/requires.txt
+[0.661s] writing top-level names to build/ponderada_vc/ponderada_vc.egg-info/top_level.txt
+[0.661s] writing manifest file 'build/ponderada_vc/ponderada_vc.egg-info/SOURCES.txt'
+[0.673s] error: package directory 'projeto' does not exist
+[0.686s] Invoked command in '/home/cauex/workspace_visao_comp/src/ponderada_vc' returned '1': PYTHONPATH=/home/cauex/workspace_visao_comp/src/ponderada_vc/build/ponderada_vc/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/cauex/workspace_visao_comp/src/ponderada_vc/install/ponderada_vc/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base build/ponderada_vc build --build-base /home/cauex/workspace_visao_comp/src/ponderada_vc/build/ponderada_vc/build install --record /home/cauex/workspace_visao_comp/src/ponderada_vc/build/ponderada_vc/install.log --single-version-externally-managed
